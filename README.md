@@ -1,14 +1,9 @@
-Hello, this is Adil Khan's attempt on disney plus clone:
+Hello, this is Adil Khan's attempt on disney plus clone:65
+
+The website is live and hosted on: https://disneyplus-clone-adilkhan.web.app/
+
 Instructions to run localhost:
 -npm install
--create react app
-then in the source folder type the following commands:
--npm install styled-component
--npm install react-slick --save
--npm install react-redux
--npm install firebase
--npm install firebase-tools
--npm install react-router-dom
 -npm start
 
 After these instructions the website should load and display as such:
